@@ -1,0 +1,21 @@
+baseURL = "https://jiumei2023-ship-it.github.io/ookkz/"
+languageCode = "zh-CN"
+title = "我的博客"
+theme = "PaperMod"
+
+[params]
+  description = "手机搭建的Hugo博客"
+  defaultTheme = "light"
+  
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/"
+    weight = 1
+    
+  [[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts/"
+    weight = 2
