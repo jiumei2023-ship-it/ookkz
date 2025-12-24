@@ -1,0 +1,4 @@
+baseURL = "https://jiumei2023-ship-it.github.io/ookkz/"
+languageCode = "zh-CN"
+title = "我的博客"
+theme = "PaperMod"
